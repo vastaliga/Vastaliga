@@ -1,2 +1,2 @@
 # luc.lunir.hu
-My own website for notes. Moreover simply learning github's basics...
+My own website for notes. Moreover experiment with github
