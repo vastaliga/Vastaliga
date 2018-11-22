@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Teljes hónap lekérdezése
+title: Query full month
 date: 2012-11-17  11:05:00
 category: Dev
 author: Luc
-lang: hu
+lang: en
 ref: query-full-month
 tags: T-SQL
 ---
+Translation in progress (same in english... as you know :D )
 Ha egy táblából szeretnénk egy teljes hónap eseményeit megszerezni, de úgy, hogy az eseménytelen napok is kerüljenek kilistázásra, arra itt egy módszer: <br />
 ```sql
 with nums (i) as ( select i = 0 union all select i + 1 from nums where i < 100)

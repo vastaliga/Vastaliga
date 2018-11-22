@@ -1,7 +1,7 @@
 ---
 layout: default
-title: luc.lunir.hu - hu
-lang: hu
+title: luc.lunir.hu - en
+lang: en
 ---
 {% assign posts=site.posts | where:"lang", page.lang %}
 <ul>
