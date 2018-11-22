@@ -1,10 +1,10 @@
 ---
+Author: Luc
 layout: post
 title: Teljes hónap lekérdezése
 date: 2012-11-17  11:05:00
 category: Dev
-tags: [T-SQL]
-Author: Luc
+tags: T-SQL
 ---
 Ha egy táblából szeretnénk egy teljes hónap eseményeit megszerezni, de úgy, hogy az eseménytelen napok is kerüljenek kilistázásra, arra itt egy módszer: <br />
 ```sql
