@@ -5,6 +5,8 @@ date: 2012-11-17  11:05:00
 category: Dev
 tags: [T-SQL]
 author: Luc
+lang: hu
+ref: query-full-month
 ---
 Ha egy táblából szeretnénk egy teljes hónap eseményeit megszerezni, de úgy, hogy az eseménytelen napok is kerüljenek kilistázásra, arra itt egy módszer: <br />
 ```sql
