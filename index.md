@@ -2,16 +2,12 @@
 layout: default
 title: luc.lunir.hu - hu
 lang: hu
+ref: index
 ---
-{% assign posts=site.posts | where:"lang", page.lang %}
-<ul>
-{% for post in posts %}
-    <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-{% endfor %}
-</ul>
+HU
+[query-full-month](/articles/teljes-honap-lekezdezese.html)<br />
+[O365-to-GSuite-migration](/articles/O365-GSuite-migracio)<br />
 
-#[query-full-month](/articles/query-full-month.html)<br />
-#[Article 2](/articles/art2.html)<br />
-#[Article 3](/articles/art3.html)
+EN
+[query-full-month](/articles/query-full-month.html)<br />
+[O365-to-GSuite-migration](/articles/O365-to-GSuite-migration)<br />

@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Query full month
+lang: en
+lang-ref: query-full-month
 date: 2012-11-17  11:05:00
 category: Dev
 author: Luc
-lang: en
 ref: query-full-month
 tags: T-SQL
 ---

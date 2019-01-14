@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Teljes hónap lekérdezése
+lang: hu
+lang-ref: query-full-month
 date: 2012-11-17  11:05:00
 category: Dev
 author: Luc
-lang: hu
 ref: query-full-month
 tags: T-SQL
 ---
