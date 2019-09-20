@@ -15,7 +15,7 @@ To collect the bugs and their solutions and other quirks I've encountered. Mainl
 
 Examples of unacceptable behavior by participants include:
 
-* Trolling, insulting/derogatory comments, and personal or political attacks
+* Trolling, insulting/derogatory comments, and personal or political attacks.. wait a minute... i'll never add commenting section to anywhere at my page :) LOL'
 * Public or private harassment
 * Publishing others' private information, such as a physical or electronic
  address, without explicit permission
