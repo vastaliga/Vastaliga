@@ -7,7 +7,7 @@ permalink:           /:categories/:year/:month/:day/:title/
 # Setup
 title:               www.liktorjanos.hu
 tagline:             My own website for notes
-description:         My own website for notes, experiment with github, yekill and stuff...
+description:         My own website for notes, experiment with github, jekyll and stuff...
 url:                 https://www.liktorjanos.hu
 baseurl:             ''
 paginate:            5
