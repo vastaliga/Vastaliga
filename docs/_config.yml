@@ -1,1 +1,16 @@
 theme: jekyll-theme-slate
+
+# Permalinks
+#
+permalink:           /:categories/:year/:month/:day/:title/
+
+# Setup
+title:               www.liktorjanos.hu
+tagline:             My own website for notes
+description:         My own website for notes, experiment with github, yekill and stuff...
+url:                 https://www.liktorjanos.hu
+baseurl:             ''
+paginate:            5
+
+# Plugins, Tags, Categories and Analytics  
+plugins:          [jekyll-paginate]
