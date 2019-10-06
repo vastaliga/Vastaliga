@@ -1,13 +1,7 @@
 name:                Liktor János
 markdown:            kramdown
 theme:               jekyll-theme-slate
-=======
-
-# Permalinks
-#
 permalink:           /:categories/:year/:month/:day/:title/
-
-# Setup
 layout:              default
 title:               www.liktorjanos.hu
 tagline:             My own website for notes
@@ -15,6 +9,4 @@ description:         My own website for notes, experiment with github, jekyll an
 url:                 https://www.liktorjanos.hu
 baseurl:             ''
 paginate:            5
-
-# Plugins, Tags, Categories and Analytics  
 plugins:          [jekyll-paginate]
