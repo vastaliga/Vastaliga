@@ -5,6 +5,7 @@ theme: jekyll-theme-slate
 permalink:           /:categories/:year/:month/:day/:title/
 
 # Setup
+layout:              luc1
 title:               www.liktorjanos.hu
 tagline:             My own website for notes
 description:         My own website for notes, experiment with github, jekyll and stuff...
