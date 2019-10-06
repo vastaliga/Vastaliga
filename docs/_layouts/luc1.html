@@ -8,9 +8,9 @@
 		<nav>
 			<ul>
 				<li><a href="/">Home</a></li>
-				<li><a href="/about">About</a></li>
-				<li><a href="/cv">CV</a></li>
-				<li><a href="/blog">Blog</a></li>
+				<li><a href="#">Prog</a></li>
+				<li><a href="#">Panna</a></li>
+				<li><a href="#">Könyvek</a></li>
 			</ul>
 		</nav>
 		<div class="container">
@@ -20,6 +20,11 @@
 		</div>
 		<footer>
 			footer stuff
+			<ul>
+			{% for stick in site.data.stickeez %}
+			  <li> {{ stick.name }} : {{ stick.quantity }}</li>
+			{% endfor %}
+			</ul>
 		</footer>
 	</body>
 </html>
